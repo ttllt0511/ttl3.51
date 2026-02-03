@@ -1,0 +1,8 @@
+{
+  "name": "Traveler App 3.5",
+  "description": "Your intelligent travel companion featuring itinerary management, expense tracking, AI-powered weather insights, and visual trip planning.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
